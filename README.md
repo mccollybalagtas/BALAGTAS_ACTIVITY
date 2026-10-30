@@ -1,4 +1,4 @@
-﻿# DEIHS Library Hub
+﻿# DEIHS Library System
 
 A complete, feature-rich desktop Library Management System built using **Java Swing** and **Object Serialization**. Designed specifically for the **DEIHS School Library**, this application offers an intuitive and responsive user interface for managing printed books, e-books, user transactions, and system catalogs.
 
